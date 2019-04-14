@@ -28,4 +28,4 @@ My Solution to the problem is to use transfer learning on [VGG16](https://arxiv.
 
 ### Results
 
-Solution has an accuracy of 97.229%.
+Solution has an accuracy of 91.813%.
